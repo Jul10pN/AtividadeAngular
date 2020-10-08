@@ -2,10 +2,9 @@
 body {
     background-color: lightskyblue
 }
-.titulo {       
-    font-weight: bold;
-}
+
 footer{ 
-  background: lightblue;
+  background: rgb(29, 50, 61);
   box-shadow: 2px 2px 10px black;
+  color: white;
 }
